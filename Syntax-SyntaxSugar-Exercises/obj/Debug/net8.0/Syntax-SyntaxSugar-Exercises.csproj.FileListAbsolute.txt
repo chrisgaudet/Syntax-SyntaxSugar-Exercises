@@ -1,0 +1,15 @@
+C:\Users\user\repos\Syntax-SyntaxSugar-Exercises\Syntax-SyntaxSugar-Exercises\obj\Debug\net8.0\Syntax-SyntaxSugar-Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\repos\Syntax-SyntaxSugar-Exercises\Syntax-SyntaxSugar-Exercises\obj\Debug\net8.0\Syntax-SyntaxSugar-Exercises.AssemblyInfoInputs.cache
+C:\Users\user\repos\Syntax-SyntaxSugar-Exercises\Syntax-SyntaxSugar-Exercises\obj\Debug\net8.0\Syntax-SyntaxSugar-Exercises.AssemblyInfo.cs
+C:\Users\user\repos\Syntax-SyntaxSugar-Exercises\Syntax-SyntaxSugar-Exercises\obj\Debug\net8.0\Syntax-SyntaxSugar-Exercises.csproj.CoreCompileInputs.cache
+C:\Users\user\repos\Syntax-SyntaxSugar-Exercises\Syntax-SyntaxSugar-Exercises\obj\Debug\net8.0\Syntax-SyntaxSugar-Exercises.sourcelink.json
+C:\Users\user\repos\Syntax-SyntaxSugar-Exercises\Syntax-SyntaxSugar-Exercises\bin\Debug\net8.0\Syntax-SyntaxSugar-Exercises.exe
+C:\Users\user\repos\Syntax-SyntaxSugar-Exercises\Syntax-SyntaxSugar-Exercises\bin\Debug\net8.0\Syntax-SyntaxSugar-Exercises.deps.json
+C:\Users\user\repos\Syntax-SyntaxSugar-Exercises\Syntax-SyntaxSugar-Exercises\bin\Debug\net8.0\Syntax-SyntaxSugar-Exercises.runtimeconfig.json
+C:\Users\user\repos\Syntax-SyntaxSugar-Exercises\Syntax-SyntaxSugar-Exercises\bin\Debug\net8.0\Syntax-SyntaxSugar-Exercises.dll
+C:\Users\user\repos\Syntax-SyntaxSugar-Exercises\Syntax-SyntaxSugar-Exercises\bin\Debug\net8.0\Syntax-SyntaxSugar-Exercises.pdb
+C:\Users\user\repos\Syntax-SyntaxSugar-Exercises\Syntax-SyntaxSugar-Exercises\obj\Debug\net8.0\Syntax-SyntaxSugar-Exercises.dll
+C:\Users\user\repos\Syntax-SyntaxSugar-Exercises\Syntax-SyntaxSugar-Exercises\obj\Debug\net8.0\refint\Syntax-SyntaxSugar-Exercises.dll
+C:\Users\user\repos\Syntax-SyntaxSugar-Exercises\Syntax-SyntaxSugar-Exercises\obj\Debug\net8.0\Syntax-SyntaxSugar-Exercises.pdb
+C:\Users\user\repos\Syntax-SyntaxSugar-Exercises\Syntax-SyntaxSugar-Exercises\obj\Debug\net8.0\Syntax-SyntaxSugar-Exercises.genruntimeconfig.cache
+C:\Users\user\repos\Syntax-SyntaxSugar-Exercises\Syntax-SyntaxSugar-Exercises\obj\Debug\net8.0\ref\Syntax-SyntaxSugar-Exercises.dll
